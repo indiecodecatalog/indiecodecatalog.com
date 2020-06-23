@@ -1,3 +1,3 @@
 // Global Constants
 
-exports.website = 'Theta'
+exports.website = 'Indie Code Catalog'
